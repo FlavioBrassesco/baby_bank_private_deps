@@ -1,0 +1,8 @@
+[package]
+name = "baby_bank_private_deps"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+# Private git dependency - should be detected as inaccessible without PAT
+private-cargo-lib = { git = "https://github.com/FlavioBrassesco/private-cargo-lib.git" }

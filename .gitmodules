@@ -1,0 +1,7 @@
+[submodule "lib/private-solidity-lib"]
+    path = lib/private-solidity-lib
+    url = https://github.com/FlavioBrassesco/private-solidity-lib.git
+
+[submodule "lib/openzeppelin-contracts"]
+    path = lib/openzeppelin-contracts
+    url = https://github.com/OpenZeppelin/openzeppelin-contracts.git

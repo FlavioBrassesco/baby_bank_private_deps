@@ -1,0 +1,8 @@
+{
+  "name": "baby_bank_private_deps",
+  "version": "1.0.0",
+  "description": "Test repository for Octane private dependency detection",
+  "dependencies": {
+    "private-npm-lib": "github:FlavioBrassesco/private-npm-lib"
+  }
+}
